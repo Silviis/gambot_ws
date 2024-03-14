@@ -1,0 +1,3 @@
+[submodule "src/gambot_base"]
+	path = src/gambot_base
+	url = git@github.com:Silviis/gambot_base.git
